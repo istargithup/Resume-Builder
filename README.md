@@ -19,7 +19,7 @@ Run npm start in /resume-builder and in /resume-builder/backend to run your loca
 
 ## Sign In Screen
 
-<img src=".//ISTAR" alt="Login Page" width="400">
+<img src="./pictures./ISTAR" alt="Login Page" width="400">
 
 
 
