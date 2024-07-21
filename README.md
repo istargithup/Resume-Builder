@@ -17,6 +17,10 @@ Run npm install in /resume-builder and in /resume-builder/backend to install dep
 
 Run npm start in /resume-builder and in /resume-builder/backend to run your local copy in browser.
 
+## Sign In Screen
+
+<img src=".//ISTAR" alt="Login Page" width="400">
+
 
 
 
