@@ -1,5 +1,4 @@
 
-
 <img src="https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/2.0.JPG?raw=true" width="250"/>
 
 ### Technologies
